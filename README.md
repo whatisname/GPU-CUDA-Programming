@@ -1,7 +1,7 @@
 # GPU-CUDA-Programming
 High performance computing study note.
 
-Resources and Reference >>
+Resources and Reference:
 
 - [CUDA link](https://developer.nvidia.com/cuda-zone) 
 
